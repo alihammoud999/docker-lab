@@ -1,0 +1,23 @@
+{
+  "name": "docker-lab",
+  "version": "1.0.0",
+  "description": "Lab 008 Docker, Docker Compose, Amazon ECR, and Docker Swarm Express API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "docker",
+    "compose",
+    "swarm",
+    "ecr",
+    "express",
+    "mysql"
+  ],
+  "author": "Ali Al Hadi Hammoud",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mysql2": "^3.9.2"
+  }
+}
